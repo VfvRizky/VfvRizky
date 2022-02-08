@@ -5,7 +5,7 @@
 - 🥑 I also like Avocado ...
 - 📫 For while you can contact me on ...
 - www.vfvrizky.my.id (📆until November/2022)
-- www.vfvrizky.github.io 
+- https://vfvrizky.github.io 
 - http://vfvrizky.infinityfreeapp.com
 - vfvrizky.site (empty hosting) (📆until February/2023)
 <!---
