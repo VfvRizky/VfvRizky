@@ -12,7 +12,9 @@
 &nbsp;&nbsp;
 [![website](./icon/yt-red.svg)](https://www.youtube.com/channel/UC0ErB7HZnmU05JXf9c_WvoQ/featured)
 
+### Languages:
 
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
 
 - https://vfvrizky.my.id (📆until November/2022)
 - www.buymeacoffee.com/vfvrizky ☕
