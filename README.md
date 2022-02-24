@@ -1,8 +1,12 @@
 # Hi 👋, I'm VfvRizky
 - 🌙 I'dlike to work on Midnight ...
 - 🥑 I also like Avocado ...
--
+
 ## 📫 For while you can contact me on :
+
+[![website](./icon/web-cyan.svg)](https://vfvrizky.my.id#gh-light-mode-only)
+[![website](./icon/web-cyan.svg)](https://vfvrizky.my.id#gh-dark-mode-only)
+
 - https://vfvrizky.my.id (📆until November/2022)
 - www.buymeacoffee.com/vfvrizky ☕
 - https://vfvrizky.github.io 
