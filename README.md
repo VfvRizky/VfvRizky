@@ -4,7 +4,7 @@
 
 ## 📫 For while you can contact me on :
 
-[![website](./icon/web-cyan2.svg)](https://vfvrizky.my.id)
+[![website](web-cyan2.svg)](https://vfvrizky.my.id)
 &nbsp;&nbsp;
 [![website](./icon/fb-blue.svg)](https://id-id.facebook.com/risky.pernanda.16)
 &nbsp;&nbsp;
