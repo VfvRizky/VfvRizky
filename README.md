@@ -23,8 +23,10 @@
 <br />
 <br />
 <br />
+=========================
 
 ## ☕ Giveme a [Coffee](https://www.buymeacoffee.com/vfvrizky) ☕
+=========================
 <!---
 - https://vfvrizky.my.id (📆until November/2022)
 - www.buymeacoffee.com/vfvrizky ☕
