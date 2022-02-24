@@ -1,9 +1,8 @@
--  I’m @VfvRizky
-
-
+# Hi 👋, I'm VfvRizky
 - 🌙 I'dlike to work on Midnight ...
 - 🥑 I also like Avocado ...
-- 📫 For while you can contact me on ...
+-
+## 📫 For while you can contact me on :
 - https://vfvrizky.my.id (📆until November/2022)
 - www.buymeacoffee.com/vfvrizky ☕
 - https://vfvrizky.github.io 
