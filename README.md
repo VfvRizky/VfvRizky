@@ -20,8 +20,8 @@
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 
-
-# Give a [☕](www.buymeacoffee.com/vfvrizky)
+-
+# Give [a ☕](https://www.buymeacoffee.com/vfvrizky)
 <!---
 - https://vfvrizky.my.id (📆until November/2022)
 - www.buymeacoffee.com/vfvrizky ☕
