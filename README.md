@@ -1,10 +1,10 @@
-# Hi... I'm [VfvRizky](https://vfvrizky.my.id)
+# <img src="./icon/star.gif" width="40"> Hi... I'm [VfvRizky](https://vfvrizky.my.id) <img src="./icon/star.gif" width="40">
 - 🌙 I'dlike to work at Midnight ...
 - 🌳 My Homeland on Borneo ...
 - 🥑 I also like Avocado ...
 - 🌶️ Hot & Spicy is my Tasto ...
 
-## 📫 For while 
+## <img src="./icon/mail3.gif" width="40"> For while 
 you can contact me on :
 
 [![website](./icon/web-cyan4.svg)](https://vfvrizky.my.id)
@@ -27,7 +27,7 @@ you can contact me on :
 
 =========================
 
-## ☕ Giveme a [Coffee](https://www.buymeacoffee.com/vfvrizky) ☕
+## <img src="./icon/coffee2.gif " width="30"> Giveme a [Coffee](https://www.buymeacoffee.com/vfvrizky) <img src="./icon/coffee2.gif" width="30">
 =========================
 <!---
 - https://vfvrizky.my.id (📆until November/2022)
